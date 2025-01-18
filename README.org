@@ -2,9 +2,8 @@
 
 GeoWKT parser and database in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/mgi/geowkt.git   |
-| commit  | cea76d4  |
-| systems | geowkt |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------|
+| source  | git:https://github.com/mgi/geowkt.git |
+| commit  | 6bf2ea6                               |
+| systems | geowkt                                |
+|---------+---------------------------------------|
